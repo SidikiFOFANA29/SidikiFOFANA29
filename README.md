@@ -1,6 +1,6 @@
 # Hi, I'm [Sidiki FOFANA](https://github.com/SidikiFOFANA29) 
 
-**Engineering Student at ENIB**
+***Engineering Student at ENIB***
 
 ## About Me
 I'm an engineering student at ENIB, where I dive into the fascinating worlds of electronics, computer science, and mechanics.
@@ -10,10 +10,10 @@ I'm an engineering student at ENIB, where I dive into the fascinating worlds of 
 - Focused on **electronics**, **computer science**, and **mechanics** at **ENIB**
 - Check out my portfolio: [My Portfolio](https://SidikiFOFANA29.github.io/)
 - I'm always open to questions and happy to help—just reach out!
-- Contact me at: **sidikifofana@example.com**
+- Contact me at: **s0fofana@enib.fr**
 
 ### Hobbies
-When I'm not studying, I enjoy playing chess ♟, listening to [music](https://open.spotify.com/), and sometimes getting lost in a good book 📚.
+When I'm not studying, I enjoy playing Football, listening to [music](https://open.spotify.com/), and sometimes getting lost in a good book 📚.
 
 ## Languages and Tools:
 <p align="center">
