@@ -29,7 +29,7 @@
 
 <h2 align="center">📈 Contribution Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameSidikiFOFANA29=&show_icons=true&locale=en&theme=radical" alt="SidikiFOFANA29's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SidikiFOFANA29=&show_icons=true&locale=en&theme=radical" alt="SidikiFOFANA29's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidikiFOFANA29&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
