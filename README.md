@@ -24,7 +24,7 @@ When I'm not studying, I enjoy:
 
 ## Languages and Tools
 <p align="center">
-    <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/kcyTbrt" data-context="false" ><a href="//imgur.com/a/kcyTbrt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>>
+    <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/kcyTbrt" data-context="false" >
     <img src="https://httpd.apache.org/images/apache_logo.png" alt="Apache" width="40" height="40"/>
     <img src="https://www.pygame.org/docs/ref/image.html#pygame.image.load" alt="Pygame" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
