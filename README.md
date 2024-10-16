@@ -31,11 +31,6 @@ When I'm not studying, I enjoy:
     <!-- Add more icons with relevant URLs -->
 </p>
 
-## Contribution Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SidikiFOFANA29&show_icons=true&locale=en&theme=radical" alt="SidikiFOFANA29's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidikiFOFANA29&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 ## Projects
 - **Embedded Systems**: Developing innovative solutions using embedded technology.
@@ -50,3 +45,10 @@ Feel free to reach out via email or connect with me on [LinkedIn](https://www.li
 ---
 
 ![Footer Image](https://example.com/path/to/footer/image.jpg)
+
+
+## Contribution Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SidikiFOFANA29&show_icons=true&locale=en&theme=radical" alt="SidikiFOFANA29's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidikiFOFANA29&theme=radical" alt="GitHub Streak Stats" />
+</p>
