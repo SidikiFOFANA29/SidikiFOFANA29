@@ -2,10 +2,14 @@
 
 ![Profile Banner](https://example.com/path/to/your/banner/image.jpg)
 
-## **Engineering Student at ENIB**
+# **Engineering Student at ENIB**
 
 ### **About Me**
-I'm an engineering student at ENIB, where I dive into the fascinating worlds of electronics, computer science, and mechanics. My academic journey has equipped me with a robust foundation in these fields, and I'm always eager to learn more and tackle new challenges.
+I am currently an engineering student at the École Nationale d'Ingénieurs de Brest (ENIB), where I explore the captivating fields of electronics, computer science, and mechanics. My time at ENIB has provided me with a solid, well-rounded foundation, balancing both theory and practical application.
+In electronics, I've designed and implemented various circuits and systems, working with microcontrollers, sensors, and actuators to create innovative solutions for real-world problems.
+In computer science, I've gained deep knowledge of programming languages, algorithms, and software development methodologies, particularly in embedded systems.
+In mechanics, I've studied mechanical systems, dynamics, and material science, specializing in CAD (Computer-Aided Design), blending creativity with technical precision.
+Throughout my academic journey, I've participated in various team projects, enhancing my collaboration and communication skills. I am always eager to learn new technologies and methodologies, and I thrive on the challenges that engineering presents.
 
 ### **Personal Interests**
 - Currently working on **embedded systems**
