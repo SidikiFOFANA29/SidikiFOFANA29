@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://example.com/path/to/your/banner/image.jpg)
 
-# **Engineering Student at ENIB**
+## **Engineering Student at ENIB**
 
 ### **About Me**
 I am currently an engineering student at the École Nationale d'Ingénieurs de Brest (ENIB), where I explore the captivating fields of electronics, computer science, and mechanics. My time at ENIB has provided me with a solid, well-rounded foundation, balancing both theory and practical application.
@@ -12,17 +12,15 @@ In mechanics, I've studied mechanical systems, dynamics, and material science, s
 Throughout my academic journey, I've participated in various team projects, enhancing my collaboration and communication skills. I am always eager to learn new technologies and methodologies, and I thrive on the challenges that engineering presents.
 
 ### **Personal Interests**
-- Currently working on **embedded systems**
 - Focused on **electronics**, **computer science**, and **mechanics** at **ENIB**
-- Check out my portfolio: [My Portfolio](https://SidikiFOFANA29.github.io/)
 - I'm always open to questions and happy to help—just reach out!
 - Contact me at: **s0fofana@enib.fr**
 
 ### **Hobbies**
 When I'm not studying, I enjoy:
-- Playing Football 🏅
-- Listening to [music](https://open.spotify.com/) 🎵
-- Getting lost in a good book 📚
+- Playing Football ⚽️
+- Listening to [music](https://open.spotify.com/) 🎵🎶
+- Getting lost in a good book 📕📖📗
 
 ![Hobbies Image](https://example.com/path/to/hobbies/image.jpg)
 
