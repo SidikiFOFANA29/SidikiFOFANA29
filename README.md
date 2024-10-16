@@ -1,6 +1,6 @@
 <body style="background-color: white; font-family: Arial, sans-serif; color: #333;">
 
-<h1 align="center">Hi, I'm <a href="https://github.com/Eljily-Mohamed" target="_blank" rel="noopener noreferrer">Eljily Mohamed</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/SidikiFOFANA29" target="_blank" rel="noopener noreferrer">SidikiFOFANA29</a>!</h1>
 <p align="center">Engineering Student at ENIB </p>
 
 <h2>About Me</h2>
@@ -29,8 +29,8 @@
 
 <h2 align="center">📈 Contribution Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eljily-Mohamed&show_icons=true&locale=en&theme=radical" alt="Eljily Mohamed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eljily-Mohamed&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?usernameSidikiFOFANA29=&show_icons=true&locale=en&theme=radical" alt="SidikiFOFANA29's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidikiFOFANA29&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 </body>
